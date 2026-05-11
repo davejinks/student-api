@@ -155,6 +155,6 @@ This project uses **in-memory storage** (a Python dictionary). All data is lost 
 
 ## 👤 Author
 
-**Akhabue Daniel**  
+**ESSIEN DAVID SOLOMON**  
 Mechatronics Engineering Student — LASUSTECH  
 📍 Lagos, Nigeria
